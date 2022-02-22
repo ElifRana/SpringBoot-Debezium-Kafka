@@ -35,11 +35,9 @@ http://localhost:5050/login?next=%2F
  
 Bu adrese gidilerek giriş yapılır ve database bağlanır.
 
-https://github.com/ElifRana/SpringBoot-Debezium-Kafka/blob/master/db.png
+<img src="https://github.com/ElifRana/SpringBoot-Debezium-Kafka/blob/master/db.png"/>
 
-
-
-Swagger'dan bir istek alınır ve bu kısımda takip edip edemediğimize bakılır. 
+Swagger'dan bir istek alınır ve  takip edip edemediğimize bakılır. 
 
 
 
