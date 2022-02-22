@@ -37,9 +37,11 @@ Bu adrese gidilerek giriş yapılır ve database bağlanır.
 
 <img src="https://github.com/ElifRana/SpringBoot-Debezium-Kafka/blob/master/db.png"/>
 
-Swagger'dan bir istek alınır ve  takip edip edemediğimize bakılır. 
+Swagger'dan bir istek alınır ve kafdrop'tan takip edip edemediğimize bakılır. 
 
+<img src="https://github.com/ElifRana/SpringBoot-Debezium-Kafka/blob/master/kafdropTest.png"/>
 
+Eğer ki güncelleme işlemi yağtığımızda önceki değerini null görmek isteiyorsak pgAdmin de bir QueryTool oluşturup ilgili komutu giriyoruz.
 
-
+<img src="https://github.com/ElifRana/SpringBoot-Debezium-Kafka/blob/master/pgadmin.png"/>
 
